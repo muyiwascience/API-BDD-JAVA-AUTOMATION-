@@ -1,0 +1,18 @@
+{
+  "id": 0,
+  "category": {
+    "id": 1,
+    "name": "Kumal's Dog"
+  },
+  "name": "African Dwarf Dog",
+  "photoUrls": [
+    "https://goo.gl/images/fxk2BX"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "Naughty Dog"
+    }
+  ],
+  "status": "available"
+}
